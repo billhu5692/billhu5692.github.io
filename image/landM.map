@@ -1,4 +1,4 @@
-<img src="[1471595680-764183429_n] (imported)" width="600" height="497" border="0" usemap="#map" />
+<img src="[landI] (imported)" width="600" height="497" border="0" usemap="#map" />
 
 <map name="map">
 <!-- #$-:Image map file created by GIMP Image Map plug-in -->
@@ -6,4 +6,5 @@
 <!-- #$-:Please do not edit lines starting with "#$" -->
 <!-- #$VERSION:2.3 -->
 <!-- #$AUTHOR:Hu -->
+<area shape="rect" coords="120,48,246,180" alt="FriontDesk" target="Audio" href="frontD.mp3" />
 </map>

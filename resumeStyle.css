@@ -1,0 +1,29 @@
+p{font-size: 20pt;}
+#personP{
+    position: relative;
+    width: 50%;
+    height: 70%;
+    margin: 0;
+    padding: 0;
+}
+.info{
+    position: relative;
+    font-size: 20pt;
+}
+.info a{
+    color: #000;
+}
+#name{
+    position: relative;
+    padding: 10px;
+    color: gold;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif
+}
+@media only screen and (max-width:720px){
+    #personP{display:none;}
+    #introduction{display:none}
+}
+@media only screen and (min-width:721px) and (max-width:960px){
+    #introduction{display: none}
+}

@@ -6,23 +6,9 @@
     margin: 0;
     padding: 0;
 }
-#personP{
-    position: relative;
-    width: 50%;
-    height: 70%;
-    margin: 0;
-    padding: 0;
-}
+
 h1{font-size:50pt;}
 p{font-size: 20pt;}
-.info{
-    position: relative;
-    font-size: 20pt;
-}
-.info a{
-    color: #000;
-}
-
 .nameTitle{
     position: fixed;
     top: 30%;
@@ -45,19 +31,6 @@ p{font-size: 20pt;}
     display: block;
     text-decoration: none;
 }
-#name{
-    position: relative;
-    padding: 10px;
-    color: gold;
-    font-size: 40px;
-    font-family: 'Times New Roman', Times, serif
-}
-@media only screen and (max-width:720px){
-    #personP{display:none;}
-    #introduction{display:none}
-}
-@media only screen and (min-width:721px) and (max-width:960px){
-    #introduction{display: none}
-}
+
 
 
